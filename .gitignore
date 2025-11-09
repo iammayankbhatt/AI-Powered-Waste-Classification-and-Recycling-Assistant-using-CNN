@@ -1,0 +1,41 @@
+# Byte-compiled / python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+
+
+# VSCode
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Data, models, large artifacts (do not commit large files)
+data/
+
+waste_classifier.h5
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python packaging
+dist/
+build/
+*.egg-info/
+
+# Secrets file (if you add)
+secrets.json
