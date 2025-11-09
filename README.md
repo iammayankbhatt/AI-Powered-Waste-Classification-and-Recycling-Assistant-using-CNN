@@ -39,7 +39,13 @@ sustainability_cnn/
 
 
 ---
+## 📊 Dataset Information
 
+### Source & Description
+- **Dataset:** [Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data)
+- **Total Images:** 22,500+ across 15 categories
+- **Classes:** Organic and Recyclable materials
+  
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -64,6 +70,8 @@ pip install -r requirements.txt
 streamlit run src/app_streamlit.py
 Visit http://localhost:8501 in your browser to use the app.
 ```
+
+
 ## 🧠 Model Details
 ```bash
 Architecture: MobileNetV2 (pretrained on ImageNet)
