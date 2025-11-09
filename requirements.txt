@@ -9,3 +9,5 @@ jupyter
 gradio
 streamlit
 seaborn
+opencv-python-headless
+protobuf==3.20.3
