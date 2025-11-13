@@ -1,24 +1,23 @@
-numpy==1.26.6
+numpy==1.26.4
 keras
 matplotlib
 pillow
 scikit-learn
-opencv-python
 jupyter
 gradio
 streamlit
 seaborn
 
-# core
+
 streamlit
 tensorflow==2.20.0
 
 
-# OpenCV: use headless on Streamlit Cloud
 opencv-python-headless==4.8.0.74
 
-# If you actually need protobuf, allow a recent version
+
 protobuf>=5.28.0,<6.0.0
 
-# add any other packages your app needs (ultralytics, pandas, etc.)
 ultralytics
+
+
