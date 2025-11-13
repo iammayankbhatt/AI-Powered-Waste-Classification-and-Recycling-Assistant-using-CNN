@@ -1,6 +1,5 @@
-
+numpy==1.26.6
 keras
-numpy
 matplotlib
 pillow
 scikit-learn
