@@ -4,7 +4,8 @@ This project classifies waste images into **Organic** or **Recyclable** categori
 It includes an interactive **Streamlit web app** that lets users upload images, view predictions, and see **Grad-CAM visualizations** highlighting the regions that influenced the model’s decision — making the AI explainable and trustworthy.
 
 ---
-
+## Try it
+https://ai-powered-waste-classification-and-recycling-assistant.streamlit.app/[https://ai-powered-waste-classification-and-recycling-assistant.streamlit.app/]
 ## 🚀 Features
 
 - 🧠 **Deep Learning Model:** MobileNetV2 transfer learning + fine-tuning (~92% test accuracy)  
